@@ -1,0 +1,62 @@
+review_id,review_text,rating,date,product_category
+1,"This product is absolutely amazing! The quality exceeded my expectations and it arrived quickly. Highly recommend!",5,2024-01-15,Electronics
+2,"Not worth the money. Poor quality and broke after just one week. Very disappointed.",2,2024-01-20,Electronics
+3,"Decent product for the price. Does what it's supposed to do but nothing special.",3,2024-02-01,Home & Kitchen
+4,"Excellent customer service! The product itself is good but the support team really made the difference.",4,2024-02-05,Customer Service
+5,"Terrible experience. The item was damaged when it arrived and customer service was unhelpful.",1,2024-02-10,Electronics
+6,"Love this product! It's exactly as described and works perfectly. Will definitely buy again.",5,2024-02-15,Home & Kitchen
+7,"The packaging was great but the product quality is just okay. Expected more for this price point.",3,2024-02-20,Electronics
+8,"Amazing value for money! Fast shipping and excellent quality. Couldn't be happier!",5,2024-03-01,Electronics
+9,"Product arrived late and was not as described. Very frustrating experience overall.",2,2024-03-05,Home & Kitchen
+10,"Great product! Easy to use and works well. The instructions were clear and helpful.",4,2024-03-10,Electronics
+11,"Poor quality materials. The product looks cheap and doesn't function properly. Waste of money.",1,2024-03-15,Home & Kitchen
+12,"Outstanding product! Exceeded all expectations. The build quality is excellent and it's very durable.",5,2024-03-20,Electronics
+13,"Average product. It works but there are better options available for similar prices.",3,2024-04-01,Electronics
+14,"Fantastic purchase! The product is well-designed and performs excellently. Highly satisfied!",5,2024-04-05,Home & Kitchen
+15,"Disappointed with the quality. The product broke after minimal use. Not recommended.",2,2024-04-10,Electronics
+16,"Good product overall. Minor issues but nothing major. Would consider buying again.",4,2024-04-15,Home & Kitchen
+17,"Excellent product! Great value and quality. Shipping was fast and packaging was secure.",5,2024-04-20,Electronics
+18,"The product is okay but customer service was terrible. Had issues getting a response.",2,2024-05-01,Customer Service
+19,"Love it! Perfect for my needs. The quality is great and it's very user-friendly.",5,2024-05-05,Electronics
+20,"Not impressed. The product doesn't match the description and quality is subpar.",2,2024-05-10,Home & Kitchen
+21,"Amazing product! Works perfectly and looks great. Best purchase I've made in a while.",5,2024-05-15,Electronics
+22,"Decent quality but overpriced. There are cheaper alternatives that work just as well.",3,2024-05-20,Electronics
+23,"Great product with excellent build quality. Very satisfied with this purchase!",4,2024-06-01,Home & Kitchen
+24,"Poor experience. Product arrived damaged and replacement process was complicated.",1,2024-06-05,Electronics
+25,"Excellent value! The product works great and the price is very reasonable. Highly recommend!",5,2024-06-10,Electronics
+26,"The product is fine but nothing special. Expected more based on the reviews.",3,2024-06-15,Home & Kitchen
+27,"Outstanding quality! The product exceeded my expectations in every way. Very happy!",5,2024-06-20,Electronics
+28,"Disappointing purchase. The product doesn't work as advertised and feels cheap.",2,2024-07-01,Electronics
+29,"Great product! Easy to set up and use. The instructions were helpful and clear.",4,2024-07-05,Home & Kitchen
+30,"Terrible quality. Broke after just a few uses. Would not recommend to anyone.",1,2024-07-10,Electronics
+31,"Fantastic product! Great quality and excellent customer support. Very pleased!",5,2024-07-15,Electronics
+32,"Average product. It works but the quality could be better. Decent for the price.",3,2024-07-20,Home & Kitchen
+33,"Excellent purchase! The product is well-made and performs excellently. Highly satisfied!",5,2024-08-01,Electronics
+34,"Not worth it. The product quality is poor and customer service was unresponsive.",2,2024-08-05,Electronics
+35,"Love this product! It's exactly what I needed and works perfectly. Great value!",5,2024-08-10,Home & Kitchen
+36,"The product is okay but shipping took too long. Quality is decent though.",3,2024-08-15,Electronics
+37,"Amazing quality! The product is durable and well-designed. Very happy with this purchase!",5,2024-08-20,Electronics
+38,"Poor product quality. Doesn't function properly and feels cheaply made.",2,2024-09-01,Home & Kitchen
+39,"Great product! Works well and the price is fair. Would buy again.",4,2024-09-05,Electronics
+40,"Excellent product with outstanding quality. Exceeded all my expectations. Highly recommend!",5,2024-09-10,Electronics
+41,"Disappointed. The product doesn't match the description and quality is below expectations.",2,2024-09-15,Electronics
+42,"Good product overall. Minor issues but performs well. Satisfied with purchase.",4,2024-09-20,Home & Kitchen
+43,"Outstanding purchase! The product is excellent quality and works perfectly. Very pleased!",5,2024-10-01,Electronics
+44,"Average product. It works but there are better options available. Nothing special.",3,2024-10-05,Electronics
+45,"Fantastic product! Great value and excellent quality. Highly satisfied!",5,2024-10-10,Home & Kitchen
+46,"Terrible experience. Product arrived broken and customer service was unhelpful.",1,2024-10-15,Electronics
+47,"Excellent product! Works great and the quality is top-notch. Very happy!",5,2024-10-20,Electronics
+48,"The product is decent but overpriced. Quality is okay but expected more.",3,2024-11-01,Home & Kitchen
+49,"Amazing product! Perfect for my needs. Great quality and excellent value!",5,2024-11-05,Electronics
+50,"Not impressed with the quality. The product feels cheap and doesn't work well.",2,2024-11-10,Electronics
+
+
+2,Another review
+
+# Update 2025-12-05 18:46:26.871959
+
+# Update 2025-12-05 18:46:27.271457
+
+# Update 2025-12-05 18:46:29.045440
+
+# Update 2025-12-05 18:46:30.376645
