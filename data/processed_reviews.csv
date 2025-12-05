@@ -1,0 +1,4 @@
+review_id,review_text,cleaned_text,processed_text
+1,"This product is absolutely amazing! The quality exceeded my expectations and it arrived quickly. Highly recommend!","this product is absolutely amazing the quality exceeded my expectations and it arrived quickly highly recommend","product absolutely amazing quality exceeded expectation arrived quickly highly recommend"
+2,"Not worth the money. Poor quality and broke after just one week. Very disappointed.","not worth the money poor quality and broke after just one week very disappointed","worth money poor quality broke one week very disappointed"
+
